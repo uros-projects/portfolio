@@ -46,7 +46,19 @@ const apps = [
         name: 'Menu App',
         url: 'https://uros-projects.github.io/menu-app/',
         description: 'A restaurant menu application example, with dynamic categories listing, and filtering.',
-    }
+    },
+    {
+        id: 9,
+        name: 'Trello look-alike',
+        url: 'https://uros-projects.github.io/trello-look-alike/',
+        description: 'A Trello look-alike application with drag and drop and modal functionality.',
+    },
+    {
+        id: 10,
+        name: 'Countdown to new year',
+        url: 'https://uros-projects.github.io/countdown-to-new-year/',
+        description: "A minimalistic countdown timer to the new year's eve.",
+    },
 ];
 
 export default apps;

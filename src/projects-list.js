@@ -59,6 +59,12 @@ const apps = [
         url: 'https://uros-projects.github.io/countdown-to-new-year/',
         description: "A minimalistic countdown timer to the new year's eve.",
     },
+    {
+        id: 11,
+        name: 'Testimonials slider',
+        url: 'https://uros-projects.github.io/testimonials-slider/',
+        description: "A slider with personal testimonials. Slider also goes to automatic mode after a certain period of time.",
+    },
 ];
 
 export default apps;

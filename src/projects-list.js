@@ -65,6 +65,14 @@ const apps = [
         url: 'https://uros-projects.github.io/testimonials-slider/',
         description: "A slider with personal testimonials. Slider also goes to automatic mode after a certain period of time.",
     },
+    {
+        id: 12,
+        name: 'Responsive Navigation',
+        url: 'https://uros-projects.github.io/responsive-navigation/',
+        description: "A responsive Navigation Bar example.",
+    },    
+
+
 ];
 
 export default apps;

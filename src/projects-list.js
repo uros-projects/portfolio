@@ -77,6 +77,12 @@ const apps = [
         url: 'https://uros-projects.github.io/monsters-rolodex/',
         description: "A responsive person card grid, with monster avatars and search by name functionality.",
     },
+    {
+        id: 14,
+        name: 'Game Of Life',
+        url: 'https://uros-projects.github.io/game-of-life/',
+        description: "Original Game Of Life, with instructions. The grid is set to 30x30 where the simulation is made.",
+    },
     
 ];
 

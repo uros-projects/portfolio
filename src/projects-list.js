@@ -70,9 +70,14 @@ const apps = [
         name: 'Responsive Navigation',
         url: 'https://uros-projects.github.io/responsive-navigation/',
         description: "A responsive Navigation Bar example.",
-    },    
-
-
+    },
+    {
+        id: 13,
+        name: 'Monsters Rolodex',
+        url: 'https://uros-projects.github.io/monsters-rolodex/',
+        description: "A responsive person card grid, with monster avatars and search by name functionality.",
+    },
+    
 ];
 
 export default apps;

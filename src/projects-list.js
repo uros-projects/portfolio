@@ -83,6 +83,12 @@ const apps = [
         url: 'https://uros-projects.github.io/game-of-life/',
         description: "Original Game Of Life, with instructions. The grid is set to 30x30 where the simulation is made.",
     },
+    {
+        id: 15,
+        name: 'Accordion App',
+        url: 'https://uros-projects.github.io/accordion-app/',
+        description: "A simple example of an accordion, with open/close functionality.",
+    },
     
 ];
 

@@ -13,7 +13,7 @@ function App() {
 		<main>
 			<h2 className='heading'>Portfolio Uroš Tomašević</h2>
 			<p className='instructions'>(click on a project to see a live demo)</p>
-			{projects.map(project => (
+			{projects.reverse().map(project => (
 				<Link key={project.id} project={project} />
 			))}
 		</main>

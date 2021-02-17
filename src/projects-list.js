@@ -89,7 +89,12 @@ const apps = [
         url: 'https://uros-projects.github.io/accordion-app/',
         description: "A simple example of an accordion, with open/close functionality.",
     },
-    
+    {
+        id: 16,
+        name: 'React Native Select App',
+        url: 'https://github.com/uros-projects/react-native-select-app/',
+        description: "React Native application for selecting and deselecting list items.",
+    }    
 ];
 
 export default apps;
